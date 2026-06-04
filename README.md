@@ -7,7 +7,7 @@ Professional Portfolio Website for **Narendra Pratap Singh** showcasing Cloud In
 This portfolio website serves as a central platform for recruiters, hiring managers, and technology professionals to explore my professional background, technical expertise, certifications, projects, architecture work, and DevOps learning initiatives.
 
 The website is designed to provide a structured overview of my experience while offering controlled access to my detailed resume through a recruiter approval process.
-
+https://narendra09-devops.github.io/narendra-portfolio/
 ---
 
 ## 👨‍💻 Professional Summary
